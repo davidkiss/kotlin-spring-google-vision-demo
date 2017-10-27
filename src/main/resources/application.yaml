@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: kotlin-spring-google-vision-demo
+
+google:
+  api-key: '<replace with your Google Api Key>'
+  vision-api:
+    baseUrl: https://content-vision.googleapis.com/
+    max-results: 50
